@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cars",
+    "name": "Cars",
+    "created_at": "2026-10-05T14:50:13.728531+00:00"
+  },
+  {
+    "id": "healthcare",
+    "name": "Healthcare",
+    "created_at": "2026-10-05T14:58:12.103003+00:00"
+  },
+  {
+    "id": "vishnu_s",
+    "name": "Vishnu s",
+    "created_at": "2026-10-06T10:01:40.707071+00:00"
+  }
+]

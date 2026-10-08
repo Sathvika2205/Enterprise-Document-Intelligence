@@ -1,0 +1,31 @@
+emp_id,name,department,role,level,location,join_date,manager,annual_base_inr_lakh,email
+ZX-0001,Ananya Rao,Executive,Chief Executive Officer,Exec,Hyderabad,2015-03-14,Board of Directors,N/A,ananya.rao@zentrix-example.com
+ZX-0002,Rohan Mehta,Engineering,Chief Technology Officer,Exec,Hyderabad,2015-03-14,Ananya Rao,N/A,rohan.mehta@zentrix-example.com
+ZX-0003,Priya Nair,Finance and Legal,Chief Financial Officer,Exec,Hyderabad,2019-01-04,Ananya Rao,N/A,priya.nair@zentrix-example.com
+ZX-0004,Karthik Iyer,People and Culture,Chief People Officer,Exec,Hyderabad,2020-08-17,Ananya Rao,N/A,karthik.iyer@zentrix-example.com
+ZX-0005,Daniel Whitfield,Sales and Marketing,Chief Revenue Officer,Exec,Austin,2022-05-02,Ananya Rao,N/A,daniel.whitfield@zentrix-example.com
+ZX-0210,Meera Subramanian,Product and Design,Head of Product and Design,L6,Bengaluru,2018-06-11,Ananya Rao,62,meera.subramanian@zentrix-example.com
+ZX-0388,Vikram Choudhury,Customer Success,Head of Customer Success,L6,Pune,2019-09-02,Ananya Rao,55,vikram.choudhury@zentrix-example.com
+ZX-0455,Sunita Deshmukh,IT and Security,Head of IT and Security,L6,Hyderabad,2017-02-20,Ananya Rao,58,sunita.deshmukh@zentrix-example.com
+ZX-0312,Arjun Pillai,Engineering,Engineering Manager - Platform Core,L5,Hyderabad,2018-03-05,Rohan Mehta,44,arjun.pillai@zentrix-example.com
+ZX-0341,Neha Kapoor,Engineering,Engineering Manager - Flow Team,L5,Bengaluru,2018-11-19,Rohan Mehta,42,neha.kapoor@zentrix-example.com
+ZX-0367,Siddharth Bose,Engineering,Engineering Manager - Insight Team,L5,Bengaluru,2019-02-25,Rohan Mehta,41,siddharth.bose@zentrix-example.com
+ZX-0402,Fatima Sheikh,Engineering,Engineering Manager - Guard Team,L5,Hyderabad,2021-03-15,Rohan Mehta,40,fatima.sheikh@zentrix-example.com
+ZX-0420,Gopal Menon,Engineering,Engineering Manager - Quality and Reliability,L5,Hyderabad,2019-07-08,Rohan Mehta,38,gopal.menon@zentrix-example.com
+ZX-1042,Aditi Sharma,Engineering,Senior Engineer - Flow Team,L3,Bengaluru,2021-07-11,Neha Kapoor,18,aditi.sharma@zentrix-example.com
+ZX-1187,Rahul Verma,Product and Design,Product Manager - Insight,L4,Bengaluru,2022-01-03,Meera Subramanian,27,rahul.verma@zentrix-example.com
+ZX-1203,Manish Gupta,Engineering,Software Engineer - Platform Core,L2,Hyderabad,2022-05-16,Arjun Pillai,13,manish.gupta@zentrix-example.com
+ZX-1290,Lavanya Krishnan,Engineering,Senior Engineer - Insight Team,L3,Bengaluru,2022-08-08,Siddharth Bose,19,lavanya.krishnan@zentrix-example.com
+ZX-1305,Kavya Reddy,IT and Security,Security Analyst,L2,Hyderabad,2022-09-21,Sunita Deshmukh,11,kavya.reddy@zentrix-example.com
+ZX-1352,Harish Babu,Engineering,Test Engineer - Quality and Reliability,L2,Hyderabad,2022-12-05,Gopal Menon,11,harish.babu@zentrix-example.com
+ZX-1401,Pooja Nambiar,Finance and Legal,Senior Accountant,L3,Hyderabad,2023-01-16,Priya Nair,15,pooja.nambiar@zentrix-example.com
+ZX-1459,Imran Khan,Customer Success,Customer Success Lead,L4,Pune,2023-03-06,Vikram Choudhury,24,imran.khan@zentrix-example.com
+ZX-1522,Anil Kumar Reddy,People and Culture,HR Business Partner,L3,Hyderabad,2023-06-12,Karthik Iyer,16,anil.reddy@zentrix-example.com
+ZX-1587,Deepika Rao,Sales and Marketing,Marketing Manager,L4,Pune,2023-10-03,Daniel Whitfield,26,deepika.rao@zentrix-example.com
+ZX-1618,Sneha Joshi,Engineering,Software Engineer - Guard Team,L2,Hyderabad,2024-08-14,Fatima Sheikh,12,sneha.joshi@zentrix-example.com
+ZX-1690,Yash Agarwal,Engineering,Associate Engineer - Flow Team,L1,Bengaluru,2024-11-04,Neha Kapoor,7,yash.agarwal@zentrix-example.com
+ZX-1731,Nisha Pathak,Customer Success,Support Associate,L1,Pune,2024-12-02,Imran Khan,6,nisha.pathak@zentrix-example.com
+ZX-1774,Tarun Bhatia,Sales and Marketing,Account Executive - US,L3,Austin,2025-01-20,Daniel Whitfield,20,tarun.bhatia@zentrix-example.com
+ZX-1802,Omar Siddiqui,Engineering,Staff Engineer - Platform Core,L5,Hyderabad,2025-03-17,Arjun Pillai,38,omar.siddiqui@zentrix-example.com
+ZX-1856,Rhea Dsouza,Product and Design,Senior Product Designer,L3,Bengaluru,2025-06-23,Meera Subramanian,20,rhea.dsouza@zentrix-example.com
+ZX-1911,Karan Malhotra,Finance and Legal,Corporate Counsel,L4,Hyderabad,2025-09-01,Priya Nair,28,karan.malhotra@zentrix-example.com
