@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+pymupdf
+pydantic
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+python-docx
+pandas
+openpyxl
+streamlit
+langgraph
+xlrd
+google-genai
+python-dotenv

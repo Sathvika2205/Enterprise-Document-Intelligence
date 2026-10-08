@@ -1,0 +1,17 @@
+services:
+  enterpriseiq:
+    build: .
+    image: enterpriseiq:latest
+    ports:
+      - "8501:8501"
+    volumes:
+      # Uploaded files, the search index and the organization list.
+      # Survives container restarts and rebuilds.
+      - enterpriseiq_data:/app/data
+    environment:
+      # Read from your shell or a local .env file next to this file.
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+    restart: unless-stopped
+
+volumes:
+  enterpriseiq_data:
